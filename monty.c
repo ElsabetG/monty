@@ -22,3 +22,4 @@ int main(int ac, char **av)
 	free_dlistint(stack);
 	return (0);
 }
+
